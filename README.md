@@ -2,7 +2,7 @@
 
 Este proyecto fue forkeado del repositorio original de [Direccion Academica ADL](https://github.com/DireccionAcademicaADL/Landing). A continuación se detallan las instrucciones para clonar, instalar y contribuir a este proyecto.
 
-## Instalación
+## Instalación  
 
 1. Clona el repositorio:
 
