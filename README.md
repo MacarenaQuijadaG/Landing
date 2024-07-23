@@ -7,5 +7,5 @@ Este proyecto fue forkeado del repositorio original de [Direccion Academica ADL]
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/DireccionAcademicaADL/Landing.git
+git clone https://github.com/MacarenaQuijadaG/Landing.git
 2. Abre contu editor de texto favorito.
